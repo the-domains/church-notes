@@ -1,0 +1,14 @@
+layout_spectrum: 0.9896040954627097
+typography_spectrum: 0.39900252618826926
+color:
+  brandStrength: 0.2796639618463814
+  lightness: 0.43521376117132604
+  saturation: 0.9345507866237313
+  rhythmicContrast: 0.8722350285388529
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Church Notes
