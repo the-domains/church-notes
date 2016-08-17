@@ -4,8 +4,8 @@ at__context: 'http://schema.org'
 title: >-
   13 That everyone may eat and drink, and find satisfaction in all his toil—this
   is the gift of God. .
-datePublished: '2016-08-17T16:28:32.670Z'
-dateModified: '2016-08-17T16:28:32.565Z'
+datePublished: '2016-08-17T16:28:49.634Z'
+dateModified: '2016-08-17T16:28:49.236Z'
 publisher: {}
 author: []
 inFeed: true
@@ -31,8 +31,10 @@ description: >-
 via: {}
 sourcePath: >-
   _posts/2016-08-13-what-does-the-worker-gain-from-his-toil-10-i-have-seen-the.md
+hasPage: true
 starred: false
-_type: Blurb
+url: 13-that-everyone-may-eat-and-drink-and-find-satisfaction-in/index.html
+_type: Article
 
 ---
 What does the worker gain from his toil? **10 **I have seen the burden God has laid on men.**11 **He has made everything beautiful in its time.He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end. **12 **I know that there is nothing better for men than to be happy and do good while they live. **13 **What does the worker gain from his toil? **10 **I have seen the burden God has laid on men.**11 **He has made everything beautiful in its time.He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end. **12 **I know that there is nothing better for men than to be happy and do good while they live. **13 **What does the worker gain from his toil? **10 **I have seen the burden God has laid on men.**11 **He has made everything beautiful in its time.He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end. **12 **I know that there is nothing better for men than to be happy and do good while they live. What does the worker gain from his toil? **10 **I have seen the burden God has laid on men.**11 **He has made everything beautiful in its time.He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end. **12 **I know that there is nothing better for men than to be happy and do good while they live.
