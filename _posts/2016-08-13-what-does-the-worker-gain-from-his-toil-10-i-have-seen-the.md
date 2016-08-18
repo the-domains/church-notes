@@ -1,43 +1,30 @@
 ---
+datePublished: '2016-08-18T02:24:04.135Z'
+sourcePath: >-
+  _posts/2016-08-13-what-does-the-worker-gain-from-his-toil-10-i-have-seen-the.md
+inFeed: true
+hasPage: true
+author: []
 at__type: Article
-at__context: 'http://schema.org'
+via: {}
+dateModified: '2016-08-18T02:24:03.728Z'
 title: >-
   13 That everyone may eat and drink, and find satisfaction in all his toil—this
   is the gift of God. .
-datePublished: '2016-08-17T16:28:49.634Z'
-dateModified: '2016-08-17T16:28:49.236Z'
 publisher: {}
-author: []
-inFeed: true
+at__context: 'http://schema.org'
 description: >-
   What does the worker gain from his toil? 10 I have seen the burden God has
   laid on men.11 He has made everything beautiful in its time.He has also set
   eternity in the hearts of men; yet they cannot fathom what God has done from
   beginning to end. 12 I know that there is nothing better for men than to be
-  happy and do good while they live. 13 What does the worker gain from his toil?
-  10 I have seen the burden God has laid on men.11 He has made everything
-  beautiful in its time.He has also set eternity in the hearts of men; yet they
-  cannot fathom what God has done from beginning to end. 12 I know that there is
-  nothing better for men than to be happy and do good while they live. 13 What
-  does the worker gain from his toil? 10 I have seen the burden God has laid on
-  men.11 He has made everything beautiful in its time.He has also set eternity
-  in the hearts of men; yet they cannot fathom what God has done from beginning
-  to end. 12 I know that there is nothing better for men than to be happy and do
-  good while they live. What does the worker gain from his toil? 10 I have seen
-  the burden God has laid on men.11 He has made everything beautiful in its
-  time.He has also set eternity in the hearts of men; yet they cannot fathom
-  what God has done from beginning to end. 12 I know that there is nothing
-  better for men than to be happy and do good while they live.
-via: {}
-sourcePath: >-
-  _posts/2016-08-13-what-does-the-worker-gain-from-his-toil-10-i-have-seen-the.md
-hasPage: true
+  happy and do good while they live. 13 
 starred: false
 url: 13-that-everyone-may-eat-and-drink-and-find-satisfaction-in/index.html
 _type: Article
 
 ---
-What does the worker gain from his toil? **10 **I have seen the burden God has laid on men.**11 **He has made everything beautiful in its time.He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end. **12 **I know that there is nothing better for men than to be happy and do good while they live. **13 **What does the worker gain from his toil? **10 **I have seen the burden God has laid on men.**11 **He has made everything beautiful in its time.He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end. **12 **I know that there is nothing better for men than to be happy and do good while they live. **13 **What does the worker gain from his toil? **10 **I have seen the burden God has laid on men.**11 **He has made everything beautiful in its time.He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end. **12 **I know that there is nothing better for men than to be happy and do good while they live. What does the worker gain from his toil? **10 **I have seen the burden God has laid on men.**11 **He has made everything beautiful in its time.He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end. **12 **I know that there is nothing better for men than to be happy and do good while they live.
+What does the worker gain from his toil? **10 **I have seen the burden God has laid on men.**11 **He has made everything beautiful in its time.He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end. **12 **I know that there is nothing better for men than to be happy and do good while they live. **13 **
 
 # **13 **That everyone may eat and drink, and find satisfaction in all his toil---this is the gift of God. .
 
