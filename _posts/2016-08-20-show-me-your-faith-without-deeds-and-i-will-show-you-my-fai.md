@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Sabbath. 8-20-2016
-datePublished: '2016-08-20T15:17:48.992Z'
-dateModified: '2016-08-20T15:14:28.699Z'
+datePublished: '2016-08-20T15:35:05.306Z'
+dateModified: '2016-08-20T15:33:15.772Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,7 +12,7 @@ description: >-
   will show you my faith by what I do. 19 You believe that there is one God.
   Good! Even the demons believe that—and shudder.
 via: {}
-starred: false
+starred: true
 sourcePath: >-
   _posts/2016-08-20-show-me-your-faith-without-deeds-and-i-will-show-you-my-fai.md
 _type: Blurb
@@ -47,3 +47,5 @@ Terrel - read the Bible 6 times and Gwen will read something and I'll say, where
 Bruce. Story if repenting, getting the perfect
 
 Karen Sims. -
+
+**Kate Tran. Gwen prayed. His Will on earth as it is in Heaven. **
