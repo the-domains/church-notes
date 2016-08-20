@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Sabbath. 8-20-2016
-datePublished: '2016-08-20T15:43:39.207Z'
-dateModified: '2016-08-20T15:43:37.145Z'
+datePublished: '2016-08-20T15:45:59.596Z'
+dateModified: '2016-08-20T15:45:58.556Z'
 publisher: {}
 author: []
 inFeed: true
@@ -51,3 +51,5 @@ Karen Sims. -
 **Kate Tran. Gwen prayed. His Will on earth as it is in Heaven.**
 
 ### Rusty. **10 **When the Lord your God brings you into the land he swore to your fathers, to Abraham, Isaac and Jacob, to give you---a land with large, flourishing cities you did not build, **11 **houses filled with all kinds of good things you did not provide, wells you did not dig, and vineyards and olive groves you did not plant---then when you eat and are satisfied, **12 **be careful that you do not forget the Lord, who brought you out of Egypt, out of the land of slavery.
+
+Duet 6\.
