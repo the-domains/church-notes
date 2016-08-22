@@ -6,9 +6,18 @@ color:
   saturation: 0.9345507866237313
   rhythmicContrast: 0.8722350285388529
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
 name: Church Notes
+navigation:
+  - name: >-
+      13 That everyone may eat and drink, and find satisfaction in all his
+      toil—this is the gift of God. .
+    id: 5f22bd0b-a495-4ca4-b752-fd05f9d06e03
+    type: content
+  - name: Sabbath. 8-20-2016
+    id: f21c74b2-a733-4ad7-b7c5-31f670bc8ceb
+    type: content
