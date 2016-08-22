@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Sabbath. 8-20-2016
-datePublished: '2016-08-20T15:45:59.596Z'
-dateModified: '2016-08-20T15:45:58.556Z'
+datePublished: '2016-08-22T16:55:03.128Z'
+dateModified: '2016-08-22T16:55:02.756Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,10 +12,12 @@ description: >-
   will show you my faith by what I do. 19 You believe that there is one God.
   Good! Even the demons believe that—and shudder.
 via: {}
-starred: true
 sourcePath: >-
   _posts/2016-08-20-show-me-your-faith-without-deeds-and-i-will-show-you-my-fai.md
-_type: Blurb
+hasPage: true
+starred: true
+url: sabbath-8-20-2016/index.html
+_type: Article
 
 ---
 # Sabbath. 8-20-2016
