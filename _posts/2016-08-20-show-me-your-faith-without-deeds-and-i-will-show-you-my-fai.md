@@ -1,25 +1,27 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
-title: Sabbath. 8-20-2016
-datePublished: '2016-08-22T16:55:03.128Z'
-dateModified: '2016-08-22T16:55:02.756Z'
-publisher: {}
-author: []
+datePublished: '2016-08-22T16:57:34.965Z'
+sourcePath: >-
+  _posts/2016-08-20-show-me-your-faith-without-deeds-and-i-will-show-you-my-fai.md
 inFeed: true
+hasPage: true
+author: []
+at__type: Article
+via: {}
+dateModified: '2016-08-22T16:57:34.523Z'
+title: '“Enjoyment is the seal of eternity.” '
+publisher: {}
+at__context: 'http://schema.org'
 description: >-
   Thoughts about friend situation. - Show me your faith without deeds, and I
   will show you my faith by what I do. 19 You believe that there is one God.
   Good! Even the demons believe that—and shudder.
-via: {}
-sourcePath: >-
-  _posts/2016-08-20-show-me-your-faith-without-deeds-and-i-will-show-you-my-fai.md
-hasPage: true
 starred: true
 url: sabbath-8-20-2016/index.html
 _type: Article
 
 ---
+# "Enjoyment is the seal of eternity." 
+
 # Sabbath. 8-20-2016
 
 Thoughts about friend situation. - Show me your faith without deeds, and I will show you my faith by what I do. **19 **You believe that there is one God. Good! Even the demons believe that---and shudder.
